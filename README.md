@@ -7,18 +7,18 @@ This repository contains the problems discussed in Computer Networks Lab III-Yea
 
 ## LIST OF EXPERIMENTS
 
-|  Ex   | Name of the Experiment                                                                                                    | Topics Covered                                                        |
-| :---: | ------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
-|   1   | Implementation of a Basic Network using Topologies in Packet Tracer                                                       | Understands different Network Topologies                              |
-|   2   | Implement the three CRC polynomials on a dataset of characters – CRC 12, CRC 16, and CRC CCIP                             | Can apply error detection mechanisms                                  |
-|   3   | Switch and Router configuration and Configuring VLAN in Packet Tracer                                                     | Switch and Router configuration and Configuring VLAN in Packet Tracer |
-|   4   | Implement Dijkstra’s algorithm to compute the shortest path through a graph                                               | Ability to identify the shortest path in network transmission         |
-|   5   | Obtain Routing table at each node using distance vector routing algorithm on an example subnet graph with weighted delays | Identifying the route for transmitting data over the network          |
-|   6   | Obtain broadcast tree for an example subnet of hosts                                                                      | Understands the concept of subnet and broadcasting                    |
-|   7   | Implementation of Connection-oriented concurrent service (TCP)                                                            | Implements Connection Oriented Service                                |
-|   8   | Implementation of Connectionless Iterative time service (UDP)                                                             | Implements Connectionless Iterative Time Service                      |
-|   9   | Configuration of DHCP Server and Implementation of DNS                                                                    | Configuration of DHCP Server                                          |
-|  10   | Implementation of HTTP (Hyper Text Transfer Protocol)                                                                     | Implements Hypertext Transfer Protocol                                |
+|  Ex   | Name of the Experiment                                                                                                    | Topics Covered                                                 |
+| :---: | ------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- |
+|   1   | Implementation of a Basic Network using Topologies in Packet Tracer                                                       | [Exercise_01_Network_Topology](./Exercise_01_Network_Topology) |
+|   2   | Implement the three CRC polynomials on a dataset of characters – CRC 12, CRC 16, and CRC CCIP                             | [Exercise_02_CRC_Polynomials](./Exercise_02_CRC_Polynomials)   |
+|   3   | Switch and Router configuration and Configuring VLAN in Packet Tracer                                                     | [Exercise_03_VLAN_Config](./Exercise_03_VLAN_Config)           |
+|   4   | Implement Dijkstra’s algorithm to compute the shortest path through a graph                                               | [Exercise_04_Dijkstra_Algo](./Exercise_04_Dijkstra_Algo)       |
+|   5   | Obtain Routing table at each node using distance vector routing algorithm on an example subnet graph with weighted delays | [Exercise_05_Distance_Vector](./Exercise_05_Distance_Vector)   |
+|   6   | Obtain broadcast tree for an example subnet of hosts                                                                      | [Exercise_06_Broadcast_Tree](./Exercise_06_Broadcast_Tree)     |
+|   7   | Implementation of Connection-oriented concurrent service (TCP)                                                            | [Exercise_07_TCP_Service](./Exercise_07_TCP_Service)           |
+|   8   | Implementation of Connectionless Iterative time service (UDP)                                                             | [Exercise_08_UDP_Service](./Exercise_08_UDP_Service)           |
+|   9   | Configuration of DHCP Server and Implementation of DNS                                                                    | [Exercise_09_DHCP_DNS](./Exercise_09_DHCP_DNS)                 |
+|  10   | Implementation of HTTP (Hyper Text Transfer Protocol)                                                                     | [Exercise_10_HTTP_Protocol](./Exercise_10_HTTP_Protocol)       |
 
 <div align="center">
 
